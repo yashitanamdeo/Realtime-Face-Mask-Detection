@@ -1,2 +1,2 @@
-# Realtime-Face-Mask-Detection
+# Realtime Face Mask Detection
 Python Project
