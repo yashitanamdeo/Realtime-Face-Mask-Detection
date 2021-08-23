@@ -1,2 +1,2 @@
 # Realtime Face Mask Detection
-Python Project
+## Technology Used: Python, OpenCV, and Keras
